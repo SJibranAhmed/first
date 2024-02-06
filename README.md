@@ -1,5 +1,9 @@
 # first
-<h1>Name of the owner.</h1>
-this is my first repository in Git
+<h1>Family member name</h1>
 <br>
-friend name is munaaf
+<b>Salman</b>
+<b>Usman</b>
+<b>Hassan</b>
+<b>Sufyan</b>
+<b>Jibran</b>
+<b>Zain</b>
